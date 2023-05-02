@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CatChat</string>
+    <string name="name_of_Developer">Welcome Abdo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="help">Help fragment</string>
+    <string name="index">index fragment</string>
+    <string name="help_title">HELP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sent">Sent fragment</string>
+    <string name="support" />
+</resources>
