@@ -35,7 +35,6 @@ class MainActivity : AppCompatActivity(){
       //  val buttomNavView=findViewById<BottomNavigationView>(R.id.bottom_nav)
        // buttomNavView.setupWithNavController(navController)
         val navView=findViewById<NavigationView>(R.id.nav_view)
-        NavigationUI.setupWithNavController(navView,navController)
     }
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_toolbar,menu)
